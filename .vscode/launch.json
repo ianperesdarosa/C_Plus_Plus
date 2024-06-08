@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ianpe/OneDrive/Documentos/GitHub/C_Plus_Plus/Playground",
-      "program": "c:/Users/ianpe/OneDrive/Documentos/GitHub/C_Plus_Plus/Playground/build/Debug/outDebug",
+      "cwd": "c:/Users/ianpe/OneDrive/Documents/GitHub/C_Plus_Plus/Playground",
+      "program": "c:/Users/ianpe/OneDrive/Documents/GitHub/C_Plus_Plus/Playground/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
