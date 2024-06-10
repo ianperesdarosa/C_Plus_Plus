@@ -1,14 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    enum level {
-        LOW,
-        MEDIUM,
-        HIGH
-    }
+enum level {EASY, MEDIUM, HARD}; 
 
-    cout << level[0];
+int main() {
+    enum level myvar = EASY;
+
+    cout << myvar;
 
     return 0;
 }
