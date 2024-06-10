@@ -7,4 +7,8 @@ int main() {
         MEDIUM,
         HIGH
     }
+
+    cout << level[0];
+
+    return 0;
 }
