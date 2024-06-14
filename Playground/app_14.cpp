@@ -13,5 +13,7 @@ int main() {
     // Output the memory address of food with the pointer (0x6dfed4)
     cout << ptr << "\n";
 
+    cout << *ptr << "\n";
+
     return 0;
 }
