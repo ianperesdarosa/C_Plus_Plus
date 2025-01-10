@@ -9,40 +9,40 @@ int main() {
 
     switch(month){
         case 1:
-            cout << "Janeiro";
+            cout << "Janeiro << \n";
         break;
         case 2:
-            cout << "Fevereiro";
+            cout << "Fevereiro << \n";
         break;
         case 3:
-            cout << "Março";
+            cout << "Março << \n";
         break;
         case 4:
-            cout << "Abril";
+            cout << "Abril << \n";
         break;
         case 5:
-            cout << "Maio";
+            cout << "Maio << \n";
         break;
         case 6:
-            cout << "junho";
+            cout << "junho << \n";
         break;
         case 7:
-            cout << "Julho";
+            cout << "Julho << \n";
         break;
         case 8:
-            cout << "Agosto";
+            cout << "Agosto << \n";
         break;
         case 9:
-            cout << "Setembro";
+            cout << "Setembro << \n";
         break;
         case 10:
-            cout << "Outubro";
+            cout << "Outubro << \n";
         break;
         case 11:
-            cout << "Novembro";
+            cout << "Novembro << \n";
         break;
         case 12:
-            cout << "Dezembro";
+            cout << "Dezembro << \n";
         break;
     }
 
